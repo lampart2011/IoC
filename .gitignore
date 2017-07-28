@@ -1,0 +1,7 @@
+# ignore generated html files,
+*.dll
+DI_WithUnity/DI_WithUnity/bin
+DI_WithUnity/DI_WithUnity/obj
+DI_WithUnity/packages
+DI_WithUnity/.vs
+
